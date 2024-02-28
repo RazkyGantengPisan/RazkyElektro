@@ -11,3 +11,11 @@ body {
 section {
   padding-top: 5rem;
 }
+.foto {
+  margin-top: 100px;
+  display: flex;
+  margin-left: 17%;
+}
+.Penjelasan {
+  background-color: rgb(137, 181, 222);
+}
